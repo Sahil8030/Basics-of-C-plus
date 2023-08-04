@@ -1,2 +1,2 @@
 # C-plus
-C++ language from basic to advance
+C++ language only basics before OOPS
